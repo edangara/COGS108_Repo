@@ -1,1 +1,2 @@
 git add README
+git commit -m "commit README" 
