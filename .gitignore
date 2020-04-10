@@ -1,1 +1,2 @@
 git add file .gitignore
+git commit -m "commit file" 
